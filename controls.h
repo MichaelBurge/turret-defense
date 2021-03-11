@@ -1,0 +1,8 @@
+#include "control.h"
+#include "button.h"
+#include "checkbox.h"
+#include "radio.h"
+#include "text.h"
+#include "window.h"
+#include "edit.h"
+#include "progressbar.h"
